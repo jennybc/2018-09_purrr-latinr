@@ -8,5 +8,5 @@ Primary resources:
 
   * My purrr materials: <https://jennybc.github.io/purrr-tutorial/>
   * Charlotte Wickham's purrr materials: <https://github.com/cwickham/purrr-tutorial>
-  * My "row-oriented workflows" materials: <rstd.io/row-work>
+  * My "row-oriented workflows" materials: [rstd.io/row-work](https://rstd.io/row-work)
   * "Functionals" chapter of 2nd of Advanced R by Wickham: <https://adv-r.hadley.nz/functionals.html>
