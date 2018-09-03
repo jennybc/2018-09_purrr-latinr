@@ -6,6 +6,9 @@ Slides are here [2018-09_purrr-latinr.pdf](2018-09_purrr-latinr.pdf)
 
 My live code accumulates here: [bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
 
+Challenges from Charlotte Wickham's purrr workshop:
+<https://github.com/cwickham/purrr-tutorial/tree/master/challenges>
+
 Primary resources:
 
   * My purrr materials: <https://jennybc.github.io/purrr-tutorial/>
