@@ -2,7 +2,7 @@
 
 [rstd.io/purrr-latinr](https://rstd.io/purrr-latinr) <-- short link that points here!
 
-Slides are here *(coming soon)*
+Slides are here [2018-09_purrr-latinr.pdf](2018-09_purrr-latinr.pdf)
 
 My live code accumulates here: [bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
 
