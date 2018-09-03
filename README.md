@@ -1,5 +1,7 @@
 # purrr workshop at Latin-R
 
+[rstd.io/purrr-latinr](https://rstd.io/purrr-latinr) <-- short link that points here!
+
 Slides are here *(coming soon)*
 
 My live code accumulates here: [bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
