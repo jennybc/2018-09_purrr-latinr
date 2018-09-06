@@ -4,10 +4,12 @@
 
 Slides are here [2018-09_purrr-latinr.pdf](2018-09_purrr-latinr.pdf)
 
-My live code accumulates here: [bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
+Workshop is primarily done through live coding:
 
-Challenges from Charlotte Wickham's purrr workshop:
-<https://github.com/cwickham/purrr-tutorial/tree/master/challenges>
+  * During the workshop, participants can access my code here: [bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
+  * However, I re-use that document for all my teaching. Here's a snapshot of the Latin-R purrr workshop:
+    - [R code](2018-09_purrr-latinr-live-code.R)
+    - [Rendered version](2018-09_purrr-latinr-live-code.md)
 
 Primary resources:
 
